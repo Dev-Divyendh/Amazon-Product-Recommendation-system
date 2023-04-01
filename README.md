@@ -7,6 +7,41 @@
 Amazon mobile/electronics product reviews
 <p>The above mentioned dataset is already a part Tensorflow Database. Download it directly using the tfds Tensorflow API and convert it into Pandas Data Frame.
 
+# Walk Through:
+## Part 1 [Data Set]
+
+<ul>
+  <li>Import DataSet and store it as Pandas DatFrame</li>
+  <li>Exploratory Data Analysis (EDA)</li>
+  <li>Data Preprocessing
+  <ul>
+    <li>Removing Null values</li>
+    <li>Label Encoding</li>
+    <li>Min-Max Scaling</li>
+  </ul> 
+  </li>
+  <li>Data Visualization and Analysis</li>
+</ul>
+
+## Part 2 [Natural Language Processing - NLP]
+
+<ul>
+    <li>Text Preprocessing
+    <ul>
+        <li>Text Punctuation Cleaning</li>
+        <li>Removal of Stop Words</li>
+    </ul>
+    </li>
+    <li>Calculating Polarity</li>
+    <li>Categorising string into "positive, negative and neutral" strings</li>
+    <li>POS Tagging</li>
+    <li>Vectorization</li>
+</ul>
+
+## Part 3 Model building
+
+Built 5 different models and analyzed it
+
 # Software and Tools Requirements
 
 1. [Github Account](https://github.com)
