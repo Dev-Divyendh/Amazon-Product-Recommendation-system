@@ -14,6 +14,10 @@ Amazon mobile/electronics product reviews
 3. [Jupyter Notebook](https://jupyter.org/install)
 4. [Google Colab](https://colab.research.google.com/)
 
+# Language used
+
+Python
+
 # Project Created & Maintained by
 
 [Dev Divyendh D](https://github.com/Dev-Divyendh)
